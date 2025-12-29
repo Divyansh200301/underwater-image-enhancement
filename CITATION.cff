@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+authors:
+  - family-names: "Divyansh"
+    given-names: ""
+title: "Underwater Image Dehazing and Clarity Enhancement System"
+version: 1.0.0
+date-released: 2025-12-29
+url: "https://github.com/Divyansh200301/underwater-image-enhancement"
+abstract: "A complete PyTorch-based deep learning system for enhancing underwater images through dual-branch architecture combining U-Net dehazing and ResNet+Attention clarity enhancement. Features comprehensive evaluation metrics (PSNR, SSIM, UIQM, UCIQE) and interactive Gradio UI."
+keywords:
+  - deep learning
+  - computer vision
+  - underwater imaging
+  - image enhancement
+  - dehazing
+  - PyTorch
+  - U-Net
+  - ResNet
+  - image quality assessment
+license: "All Rights Reserved"

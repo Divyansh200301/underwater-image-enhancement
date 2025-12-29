@@ -261,7 +261,27 @@ Feel free to:
 
 ## 📄 License
 
-This project is provided as-is for educational and research purposes.
+**Copyright © 2025 Divyansh. All Rights Reserved.**
+
+This software is proprietary and confidential. Unauthorized copying, modification, distribution, or use of this software, via any medium, is strictly prohibited without explicit written permission from the owner.
+
+**For viewing purposes only.** For permissions or commercial use inquiries, please contact the repository owner.
+
+## 📝 Citation
+
+If you reference this work in your research, please cite:
+
+```bibtex
+@software{Divyansh2025UnderwaterEnhancement,
+  author = {Divyansh},
+  title = {Underwater Image Dehazing and Clarity Enhancement System},
+  year = {2025},
+  url = {https://github.com/Divyansh200301/underwater-image-enhancement},
+  version = {1.0.0}
+}
+```
+
+Alternatively, use the "Cite this repository" feature on GitHub to generate citations in various formats.
 
 ## 🙏 Acknowledgments
 
