@@ -1,5 +1,11 @@
 # 🌊 Underwater Image Dehazing & Clarity Enhancement System
 
+[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
+[![PyTorch 2.5.1](https://img.shields.io/badge/pytorch-2.5.1-red.svg)](https://pytorch.org/)
+[![CUDA 12.1](https://img.shields.io/badge/cuda-12.1-green.svg)](https://developer.nvidia.com/cuda-toolkit)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Gradio](https://img.shields.io/badge/demo-gradio-orange.svg)](https://gradio.app/)
+
 A complete PyTorch-based system for enhancing underwater images through dehazing and clarity enhancement. Features both command-line tools and an interactive Gradio UI.
 
 ## 📋 Features
