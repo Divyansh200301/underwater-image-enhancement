@@ -1,0 +1,24 @@
+# Underwater Image Dehazing and Clarity Enhancement System
+# Requirements file
+
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+scikit-image>=0.21.0
+
+# UI
+gradio>=4.0.0
+
+# Data handling
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+tqdm>=4.65.0
+
+# Optional: For better performance on CPU
+# intel-extension-for-pytorch

@@ -1,0 +1,99 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# PyTorch Models (too large for GitHub)
+saved_models/
+*.pth
+*.pt
+
+# Datasets (too large for GitHub)
+dataset/
+raw-890/
+reference-890/
+challenging-60/
+*.jpg
+*.png
+*.jpeg
+*.bmp
+!README_assets/*.png
+!README_assets/*.jpg
+
+# Output files
+output/
+results/
+
+# Training logs
+*.log
+logs/
+runs/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# Evaluation results (large JSON files)
+ablation_study.json
+evaluation_results.json
+*.csv
+
+# Gradio cache
+gradio_cached_examples/
+flagged/
+
+# PlantUML generated images
+*.png
+*.svg
+!diagrams/*.png
+
+# Large files
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Test files
+test/
+tests/
